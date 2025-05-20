@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusLourenco&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLourenco&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatheusLourenco&theme=radical)
+## 📊 Minhas Estatísticas no GitHub:
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=SEUUSUARIO&theme=radical" /></td>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=radical&no-frame=true&column=4" /></td>
+  </tr>
+</table>
